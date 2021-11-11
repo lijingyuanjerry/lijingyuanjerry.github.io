@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "李静远 博士"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+李静远，博士，腾讯产学合作总监，中国计算机学会高级会员、科普工作委员会副主任，视频工作组组长，大数据专家委员会正式委员，河南省大数据与人工智能专家委员会委员，受聘上海科技大学企业导师。负责腾讯产-教-研融合工作，聚焦于社交网络、人工智能、网络安全等方向的科研合作与技术储备。曾任阿里云科研技术合作总监，中科院计算所高级工程师，科研方向为社会网络大数据感知与演化计算。主持国家自然科学基金项目1项、国家242信息安全计划项目10余项，参与重点研发计划、863、973、香港创新基金项目多项。出版专著2部，发表学术论文40余篇，授权发明专利10多项。获钱伟长中文信息处理科学技术一等奖、北京市科学技术二等奖、中国电子学会技术发明二等奖
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
